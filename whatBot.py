@@ -91,7 +91,7 @@ def sendMsg(msg):
         print('User is not online (ex)')
         flag = False
 
-clickPerson('burak knk')
+clickPerson('The person you want to send a message')
 sleep(2)
 while True:
     isOnline()
