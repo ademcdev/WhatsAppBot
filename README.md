@@ -22,7 +22,6 @@ WhatBot is a Python script designed for automating interactions with WhatsApp We
 2. Install the required Python libraries using pip:
    ```
    pip install selenium fuzzywuzzy
-   
    ```
 3. Place the ChromeDriver executable (`chromedriver.exe`) in the same directory as the WhatBot script.
 
