@@ -27,6 +27,7 @@ WhatBot is a Python script designed for automating interactions with WhatsApp We
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+
 For questions or suggestions regarding Virtual Assistant, please contact me at ranexcdev@gmail.com.
 
 ## License
