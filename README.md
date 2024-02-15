@@ -10,7 +10,7 @@ WhatBot is a Python script designed for automating interactions with WhatsApp We
 ## Prerequisites
 - Python 3.x installed on your system
 - Chrome browser installed
-- ChromeDriver executable in the system path Download from [ChromeDriver website](https://googlechromelabs.github.io/chrome-for-testing/)
+- ChromeDriver install the suitable version for your Chrome version - Download from [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
 
 ## Used Libraries
 - **Selenium**
@@ -27,6 +27,7 @@ WhatBot is a Python script designed for automating interactions with WhatsApp We
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+For questions or suggestions regarding Virtual Assistant, please contact me at ranexcdev@gmail.com.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
